@@ -15,6 +15,14 @@ Both models were trained on the same dataset, and the **LSTM model achieved bett
 
 ---
 
+## 🚀 Live Demo
+
+Try the application here:
+
+🔗 **https://next-word-prediction-lstm-model.streamlit.app**
+
+> Enter a seed sentence, choose the number of words to generate, and let the trained LSTM model predict the next words.
+
 ## 🚀 Features
 
 - Next word prediction
@@ -441,18 +449,6 @@ streamlit run app.py
 
 ---
 
-## 🌟 Future Improvements
-
-- Bidirectional LSTM
-- GRU
-- Attention Mechanism
-- Transformer Models
-- Temperature Sampling
-- Top-k Sampling
-- Larger Dataset
-
----
-
 ## 👨‍💻 Author
 
 **Samadhan Mane**
@@ -461,4 +457,4 @@ B.Tech Computer Engineering Student
 
 MIT Academy of Engineering (MITAOE)
 
-Deep Learning | Machine Learning | Full Stack Development
+Deep Learning | Machine Learning
